@@ -1,6 +1,6 @@
 {
   "mqtt": {
-    "broker": "211.188.58.158:30819",
+    "broker": "211.188.58.158:1883",
     "topic": "iot/data",
     "client_id": "client1",
     "username": "",
